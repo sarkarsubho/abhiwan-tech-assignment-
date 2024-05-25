@@ -1,3 +1,9 @@
+### techStack used
+  - Express
+  - MongoDB
+  - Node.js
+
+
 #### Default route
 
 ```http
